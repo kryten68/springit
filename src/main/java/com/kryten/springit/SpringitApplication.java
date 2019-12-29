@@ -10,6 +10,9 @@ public class SpringitApplication {
 		SpringApplication.run(SpringitApplication.class, args);
 		System.out.println("Message #1 - On Master Branch.");
 		System.out.println("Message #2 - On Master Branch.");
+		System.out.println("Message #3 - On Master Branch.");
+		System.out.println("Message #3 - On Master Branch.");
+
 	}
 
 }
